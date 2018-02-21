@@ -3,3 +3,4 @@
 ## ChemE 5500 Weekly Challenge 4
 
 Github Website....for practicing~
+This repository contains HelloWorld.py and mundaneMath.py
